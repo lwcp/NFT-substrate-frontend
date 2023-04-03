@@ -512,3 +512,4 @@ if (extensions.length === 0) {
 ```js
 const allAccounts = await web3Accounts()
 ```
+# NFT-substrate-frontend
